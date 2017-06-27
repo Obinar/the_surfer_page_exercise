@@ -1,0 +1,43 @@
+html {
+    background-color: #0a7ba5;
+}
+
+body {
+    background-color: #19db4e;
+    border: 3px solid black;
+    font-family: verdana;
+    margin: 0 auto;
+    width: 600px;
+    padding: 30px;
+}
+
+img {
+    border: 15px groove yellow;
+    border-radius: 100%;
+/*
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    margin: 15px 50px;   
+*/
+    margin: 0 auto;
+    display: block;
+}
+
+
+.firstH, .secondH {
+    font-size: 1.5em;
+    margin-top: 20px;
+    padding: 5px; 
+}
+
+.firstH {
+    color: #2279d1;
+}
+
+.secondH {
+    color:#e62762;   
+}
+
+p {
+    padding: 5px;
+}
